@@ -146,9 +146,9 @@ Como posibles extensiones del proyecto se podrían desarrollar:
 
 💹 análisis de rentabilidad para inversores
 
-👩‍💻 Autora
+:woman_technologist:**Autores y Agradecimientos**
 
-Elizabeth Montero Domínguez
+ - Elizabeth Montero Domínguez: Análisis y desarrollo del proyecto.
 
 🎓 Máster en Análisis de Datos e Inteligencia Artificial
 🏫 ThePower Business School
