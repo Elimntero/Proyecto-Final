@@ -1,4 +1,4 @@
-![Encabezado Lending Club]( Proyecto-Final/Reports/Image - Préstamo.webp at main · Elimntero/Proyecto-Final)
+![Encabezado Lending Club](https://github.com/Elimntero/Proyecto-Final/blob/main/Reports/Image%20-%20Pr%C3%A9stamo.jpg)
 
 💰 Lending Club Loan Analysis 📊
 🎓 Trabajo Fin de Máster – Análisis de Datos e Inteligencia Artificial
