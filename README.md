@@ -68,7 +68,7 @@ Documento donde se explica la estructura, objetivos y resultados del proyecto.
 
 El conjunto de datos incluye aproximadamente:
 
-📌 42.543 préstamos
+📌 **42.543 préstamos**
 
 Variables principales:
 
@@ -122,19 +122,15 @@ Las herramientas utilizadas para el desarrollo del proyecto incluyen:
 
 El proyecto incluye un dashboard interactivo en Excel que permite visualizar:
 
-distribución del estado del préstamo
-
-tasa de interés por grado crediticio
-
-análisis de correlaciones
-
-ingreso promedio de los prestatarios
-
-KPIs principales del análisis
+- Distribución del estado del préstamo
+- tasa de interés por grado crediticio
+- Análisis de correlaciones
+- Ingreso promedio de los prestatarios
+- KPIs principales del análisis
 
 El dashboard facilita la interpretación de los resultados obtenidos en el análisis.
 
-🚀 Trabajo futuro
+🚀 **Trabajo futuro**
 
 Como posibles extensiones del proyecto se podrían desarrollar:
 
@@ -146,9 +142,9 @@ Como posibles extensiones del proyecto se podrían desarrollar:
 
 💹 análisis de rentabilidad para inversores
 
-:woman_technologist:**Autores y Agradecimientos**
+:woman_technologist: **Autores y Agradecimientos**
 
  - Elizabeth Montero Domínguez: Análisis y desarrollo del proyecto.
 
-🎓 Máster en Análisis de Datos e Inteligencia Artificial
-🏫 ThePower Business School
+🎓 **Máster en Análisis de Datos e Inteligencia Artificial**
+🏫 **ThePower Business School**
