@@ -3,7 +3,7 @@
 💰 Lending Club Loan Analysis 📊
 🎓 Trabajo Fin de Máster – Análisis de Datos e Inteligencia Artificial
 
-📄 Descripción
+📄 **Descripción**
 
 Este proyecto consiste en el análisis de datos de préstamos concedidos por la plataforma Lending Club, utilizando técnicas de análisis exploratorio de datos, visualización y análisis estadístico.
 
@@ -19,7 +19,7 @@ los factores asociados al impago de préstamos
 
 El análisis se realiza utilizando herramientas de Python, Excel y visualización de datos, culminando con el desarrollo de un dashboard interactivo que permite interpretar los resultados de forma clara.
 
-🎯 Objetivos del proyecto
+🎯 **Objetivos del proyecto**
 
 Los objetivos principales del proyecto son:
 
@@ -37,35 +37,34 @@ Los objetivos principales del proyecto son:
 
 La organización de este proyecto consta de los siguientes documentos y carpetas:
 
-📂 Data
+📊 **Dashboard**
 
-Contiene el dataset utilizado para el análisis de los préstamos de Lending Club.
+Dashboard desarrollado en Excel que permite visualizar de forma interactiva los principales indicadores del análisis.
+
+📂 **Data**
+
+Contiene el dataset utilizado para el análisis de los préstamos de Lending Club, información sobre préstamos concedidos entre 2007 y 2011.
+
+Cada registro del dataset representa un préstamo individual concedido a un prestatario.
 
 📓 Notebook de análisis
 
 Notebook de Python (Jupyter Notebook) donde se realiza el proceso de análisis de datos, limpieza del dataset y análisis exploratorio.
 
-📊 Dashboard
 
-Dashboard desarrollado en Excel que permite visualizar de forma interactiva los principales indicadores del análisis.
-
-🖼 Images
-
-Carpeta que contiene las imágenes utilizadas para el README y las visualizaciones del proyecto.
-
-📄 Informe del proyecto
+📄 **Reports**
 
 Documento del Trabajo Fin de Máster, donde se describe el contexto del estudio, la metodología utilizada y las conclusiones obtenidas.
+La carpeta contiene las imágenes utilizadas para el informe, readme y las visualizaciones del proyecto.
 
-📑 README del proyecto
+
+📊 **Transformación, limpieza y análisis**
+
+Notebook de Python (Jupyter Notebook) donde se realiza el proceso de análisis de datos, limpieza del dataset y análisis exploratorio.
+
+📑 **README del proyecto**
 
 Documento donde se explica la estructura, objetivos y resultados del proyecto.
-
-📊 Dataset
-
-El dataset utilizado contiene información sobre préstamos concedidos entre 2007 y 2011.
-
-Cada registro del dataset representa un préstamo individual concedido a un prestatario.
 
 El conjunto de datos incluye aproximadamente:
 
