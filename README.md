@@ -141,5 +141,6 @@ Como posibles extensiones del proyecto se podrían desarrollar:
 
  - Elizabeth Montero Domínguez: Análisis y desarrollo del proyecto.
 
-🎓 **Máster en Análisis de Datos e Inteligencia Artificial**
+🎓 Máster en Análisis de Datos e Inteligencia Artificial
+
 🏫 **ThePower Business School**
