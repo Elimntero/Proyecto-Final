@@ -31,6 +31,7 @@ Los objetivos principales del proyecto son:
 - Identificar correlaciones entre variables financieras
 
 - Desarrollar un dashboard visual para la interpretación de resultados
+  
 
 :watch: **Organización del proyecto**
 
@@ -45,11 +46,6 @@ Dashboard desarrollado en Excel que permite visualizar de forma interactiva los 
 Contiene el dataset utilizado para el análisis de los préstamos de Lending Club, información sobre préstamos concedidos entre 2007 y 2011.
 
 Cada registro del dataset representa un préstamo individual concedido a un prestatario.
-
-:notebook: Notebook de análisis
-
-Notebook de Python (Jupyter Notebook) donde se realiza el proceso de análisis de datos, limpieza del dataset y análisis exploratorio.
-
 
 :page_with_curl: **Reports**
 
