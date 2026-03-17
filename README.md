@@ -2,7 +2,7 @@
 
 :moneybag: **LENDING CLUB LOAN ANALYSIS** :bar_chart:
 
-📄 **Descripción**
+:page_with_curl:**Descripción**
 
 Este proyecto consiste en el análisis de datos de préstamos concedidos por la plataforma Lending Club, utilizando técnicas de análisis exploratorio de datos, visualización y análisis estadístico.
 
@@ -18,106 +18,106 @@ El objetivo principal del proyecto es identificar patrones relacionados con:
 
 El análisis se realiza utilizando herramientas de Python, Excel y visualización de datos, culminando con el desarrollo de un dashboard interactivo que permite interpretar los resultados de forma clara.
 
-🎯 **Objetivos del proyecto**
+:dart: **Objetivos del proyecto**
 
 Los objetivos principales del proyecto son:
 
-📊 Analizar la distribución del estado de los préstamos
+- :chart_with_upwards_trend: Analizar la distribución del estado de los préstamos
 
-💳 Estudiar la relación entre riesgo crediticio y tasas de interés
+- :credit_card: Estudiar la relación entre riesgo crediticio y tasas de interés
 
-🧾 Analizar las características económicas de los prestatarios
+-  :bow: Analizar las características económicas de los prestatarios
 
-📈 Identificar correlaciones entre variables financieras
+- :sparkles: Identificar correlaciones entre variables financieras
 
-📊 Desarrollar un dashboard visual para la interpretación de resultados
+- :bar_chart: Desarrollar un dashboard visual para la interpretación de resultados
 
-🗂 Organización del proyecto
+:watch: **Organización del proyecto**
 
 La organización de este proyecto consta de los siguientes documentos y carpetas:
 
-📊 **Dashboard**
+:bar_chart: **Dashboard**
 
 Dashboard desarrollado en Excel que permite visualizar de forma interactiva los principales indicadores del análisis.
 
-📂 **Data**
+:open_file_folder: **Data**
 
 Contiene el dataset utilizado para el análisis de los préstamos de Lending Club, información sobre préstamos concedidos entre 2007 y 2011.
 
 Cada registro del dataset representa un préstamo individual concedido a un prestatario.
 
-📓 Notebook de análisis
+:notebook: Notebook de análisis
 
 Notebook de Python (Jupyter Notebook) donde se realiza el proceso de análisis de datos, limpieza del dataset y análisis exploratorio.
 
 
-📄 **Reports**
+:page_with_curl: **Reports**
 
 Documento del Trabajo Fin de Máster, donde se describe el contexto del estudio, la metodología utilizada y las conclusiones obtenidas.
 La carpeta contiene las imágenes utilizadas para el informe, readme y las visualizaciones del proyecto.
 
 
-📊 **Transformación, limpieza y análisis**
+:bar_chart: **Transformación, limpieza y análisis**
 
 Notebook de Python (Jupyter Notebook) donde se realiza el proceso de análisis de datos, limpieza del dataset y análisis exploratorio.
 
-📑 **README del proyecto**
+:bookmark_tabs: **README del proyecto**
 
 Documento donde se explica la estructura, objetivos y resultados del proyecto.
 
 El conjunto de datos incluye aproximadamente:
 
-📌 **42.543 préstamos**
+:pushpin: **42.543 préstamos**
 
 Variables principales:
 
-💰 loan_amnt → monto del préstamo
+:moneybag: loan_amnt → monto del préstamo
 
-⏳ term → duración del préstamo
+:hourglass_flowing_sand: term → duración del préstamo
 
-📈 int_rate → tasa de interés
+:chart_with_upwards_trend: int_rate → tasa de interés
 
-💵 annual_inc → ingresos anuales del prestatario
+:euro: annual_inc → ingresos anuales del prestatario
 
-🏠 home_ownership → situación de vivienda
+:house: home_ownership → situación de vivienda
 
-📊 grade → clasificación de riesgo crediticio
+:bar_chart: grade → clasificación de riesgo crediticio
 
-📉 dti → ratio deuda-ingresos
+:chart_with_downwards_trend: dti → ratio deuda-ingresos
 
-📌 loan_status → estado del préstamo
+:pushpin: loan_status → estado del préstamo
 
-📈 Resultados principales
+:chart_with_upwards_trend: Resultados principales
 
 Los principales hallazgos del análisis fueron:
 
-📊 Aproximadamente 79% de los préstamos fueron pagados completamente
+:bar_chart: Aproximadamente 79% de los préstamos fueron pagados completamente
 
-📉 Cerca del 13% de los préstamos terminaron en impago
+:chart_with_downwards_trend: Cerca del 13% de los préstamos terminaron en impago
 
-📈 Existe una relación clara entre grado crediticio y tasa de interés
+:chart_with_upwards_trend: Existe una relación clara entre grado crediticio y tasa de interés
 
-💳 Los prestatarios con mayor riesgo reciben tasas de interés más elevadas
+:credit_card: Los prestatarios con mayor riesgo reciben tasas de interés más elevadas
 
-📊 El monto del préstamo presenta cierta correlación con la tasa de interés
+:bar_chart: El monto del préstamo presenta cierta correlación con la tasa de interés
 
-🛠 Herramientas utilizadas
+:hammer: Herramientas utilizadas
 
 Las herramientas utilizadas para el desarrollo del proyecto incluyen:
 
-🐍 Python
+- :snake: Python
 
-📊 Pandas
+- :bar_chart: Pandas
 
-📈 Matplotlib
+- :chart_with_upwards_trend: Matplotlib
 
-📉 Seaborn
+- :chart_with_downwards_trend: Seaborn
 
-📓 Jupyter Notebook
+- :notebook: Jupyter Notebook
 
-📊 Excel (Dashboard)
+- :bar_chart: Excel (Dashboard)
 
-📊 Dashboard
+- :bar_chart: Dashboard
 
 El proyecto incluye un dashboard interactivo en Excel que permite visualizar:
 
@@ -129,17 +129,17 @@ El proyecto incluye un dashboard interactivo en Excel que permite visualizar:
 
 El dashboard facilita la interpretación de los resultados obtenidos en el análisis.
 
-🚀 **Trabajo futuro**
+:rocket: **Trabajo futuro**
 
 Como posibles extensiones del proyecto se podrían desarrollar:
 
-🤖 modelos de Machine Learning para predicción de impago
+- Modelos de Machine Learning para predicción de impago
 
-🧠 modelos de credit scoring
+- Modelos de credit scoring
 
-📊 análisis temporal del comportamiento de los préstamos
+- Análisis temporal del comportamiento de los préstamos
 
-💹 análisis de rentabilidad para inversores
+- Análisis de rentabilidad para inversores
 
 :woman_technologist: **Autores y Agradecimientos**
 
