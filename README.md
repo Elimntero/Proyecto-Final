@@ -37,27 +37,27 @@ Los objetivos principales del proyecto son:
 
 La organización de este proyecto consta de los siguientes documentos y carpetas:
 
-:bar_chart: **Dashboard**
+-  Dashboard
 
 Dashboard desarrollado en Excel que permite visualizar de forma interactiva los principales indicadores del análisis.
 
-:open_file_folder: **Data**
+- Data
 
 Contiene el dataset utilizado para el análisis de los préstamos de Lending Club, información sobre préstamos concedidos entre 2007 y 2011.
 
 Cada registro del dataset representa un préstamo individual concedido a un prestatario.
 
-:page_with_curl: **Reports**
+- Reports
 
 Documento del Trabajo Fin de Máster, donde se describe el contexto del estudio, la metodología utilizada y las conclusiones obtenidas.
 La carpeta contiene las imágenes utilizadas para el informe, readme y las visualizaciones del proyecto.
 
 
-:bar_chart: **Transformación, limpieza y análisis**
+- Transformación, limpieza y análisis
 
 Notebook de Python (Jupyter Notebook) donde se realiza el proceso de análisis de datos, limpieza del dataset y análisis exploratorio.
 
-:bookmark_tabs: **README del proyecto**
+- README del proyecto
 
 Documento donde se explica la estructura, objetivos y resultados del proyecto.
 
