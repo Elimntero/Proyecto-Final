@@ -1,7 +1,6 @@
 ![Encabezado Lending Club](https://github.com/Elimntero/Proyecto-Final/blob/main/Reports/Image%20-%20Pr%C3%A9stamo.jpg)
 
-💰 Lending Club Loan Analysis 📊
-🎓 Trabajo Fin de Máster – Análisis de Datos e Inteligencia Artificial
+:moneybag: **LENDING CLUB LOAN ANALYSIS** :bar_chart:
 
 📄 **Descripción**
 
@@ -9,13 +8,13 @@ Este proyecto consiste en el análisis de datos de préstamos concedidos por la 
 
 El objetivo principal del proyecto es identificar patrones relacionados con:
 
-el estado final de los préstamos
+- El estado final de los préstamos
 
-el perfil financiero de los prestatarios
+- El perfil financiero de los prestatarios
 
-la relación entre riesgo crediticio y tasa de interés
+- La relación entre riesgo crediticio y tasa de interés
 
-los factores asociados al impago de préstamos
+- Los factores asociados al impago de préstamos
 
 El análisis se realiza utilizando herramientas de Python, Excel y visualización de datos, culminando con el desarrollo de un dashboard interactivo que permite interpretar los resultados de forma clara.
 
