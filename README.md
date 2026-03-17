@@ -22,15 +22,15 @@ El análisis se realiza utilizando herramientas de Python, Excel y visualizació
 
 Los objetivos principales del proyecto son:
 
-- :chart_with_upwards_trend: Analizar la distribución del estado de los préstamos
+- Analizar la distribución del estado de los préstamos
 
-- :credit_card: Estudiar la relación entre riesgo crediticio y tasas de interés
+- Estudiar la relación entre riesgo crediticio y tasas de interés
 
--  :bow: Analizar las características económicas de los prestatarios
+- Analizar las características económicas de los prestatarios
 
-- :sparkles: Identificar correlaciones entre variables financieras
+- Identificar correlaciones entre variables financieras
 
-- :bar_chart: Desarrollar un dashboard visual para la interpretación de resultados
+- Desarrollar un dashboard visual para la interpretación de resultados
 
 :watch: **Organización del proyecto**
 
