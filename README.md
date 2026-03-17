@@ -101,19 +101,19 @@ Los principales hallazgos del análisis fueron:
 
 Las herramientas utilizadas para el desarrollo del proyecto incluyen:
 
-- :snake: Python
+- Python
 
-- :bar_chart: Pandas
+- Pandas
 
-- :chart_with_upwards_trend: Matplotlib
+- Matplotlib
 
-- :chart_with_downwards_trend: Seaborn
+- Seaborn
 
-- :notebook: Jupyter Notebook
+- Jupyter Notebook
 
-- :bar_chart: Excel (Dashboard)
+- Excel (Dashboard)
 
-- :bar_chart: Dashboard
+- Dashboard
 
 El proyecto incluye un dashboard interactivo en Excel que permite visualizar:
 
